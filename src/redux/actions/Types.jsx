@@ -1,0 +1,1 @@
+export const GET_EMPLOYEES_INFO = 'GET_EMPLOYEES_INFO';
