@@ -70,7 +70,7 @@ const UserLogin = (props) => {
                     }
                     </div>
                     
-                    <button type="submit">SUBMIT</button>
+                    <button type="submit">LOGIN</button>
                     <p className="forget_password">{FORGOT_CREDENTIAL_MESSGAE}</p>
                 </form>
             </div>
