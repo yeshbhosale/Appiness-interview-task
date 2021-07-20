@@ -170,11 +170,8 @@ h2 {
   border: 1px solid #ddd;
   padding: 5px;
 }
-
 .employeeList tr:nth-child(even){background-color: #f2f2f2;}
-
 .employeeList tr:hover {background-color: #ddd;}
-
 .employeeList th {
   padding-top: 12px;
   padding-bottom: 12px;
